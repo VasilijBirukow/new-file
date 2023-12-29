@@ -1,6 +1,6 @@
 # Несколько фактов обо мне
 - Я люблю **программировать**
-- [мне нравиться эта картинка](https://gas-kvas.com/uploads/posts/2023-02/1675495576_gas-kvas-com-p-luchshie-kartinki-dlya-fonovogo-risunka-ra-40.jpg)
+- ![мне нравиться эта картинка](https://gas-kvas.com/uploads/posts/2023-02/1675495576_gas-kvas-com-p-luchshie-kartinki-dlya-fonovogo-risunka-ra-40.jpg)
 - Я хочу стать **сеньор программистом**
 - Я люблю **петь**
-- Я **репетиторпо физике**
+- Я **репетитор по физике**
